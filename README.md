@@ -10,3 +10,5 @@ ZCZC W03 done tutorial number 3!
 ZCZC W04 done lab 4
 
 ZCZC W05 tutorial 5 done
+
+ZCZC W06 done tutorial 6 yeah
