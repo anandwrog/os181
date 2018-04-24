@@ -12,3 +12,7 @@ ZCZC W04 done lab 4
 ZCZC W05 tutorial 5 done
 
 ZCZC W06 tutorial 6 for glory
+
+ZCZC W07 done lab seven
+
+ZCZC W08 lab 8 is done
