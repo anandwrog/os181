@@ -17,4 +17,6 @@ ZCZC W07 done lab seven
 
 ZCZC W08 lab 8 is done
 
-ZCZC  W09 lab 9 done yeah
+ZCZC W09 lab 9 done yeah
+
+ZCZC W10 lab 10 done
